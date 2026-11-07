@@ -20,7 +20,7 @@ An automatically updated archive of Bing's daily wallpapers. Filter by category 
 ## Archive
 
 <!-- archive-stats:start -->
-- The archive contains **3899 wallpapers** since **2016-03-05**, including 3899 with thumbnails.
+- The archive contains **3900 wallpapers** since **2016-03-05**, including 3900 with thumbnails.
 <!-- archive-stats:end -->
 
 Images come from Bing's `HPImageArchive` API for `zh-CN`. Categories use keyword rules and a visual model; colors are derived from thumbnails. Both labels are automated and may be imperfect.
