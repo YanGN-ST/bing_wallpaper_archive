@@ -318,5 +318,13 @@
   "urlbase": "/th?id=OHR.DiwaliLamps_ZH-CN2462894749",
   "first_seen_at": "2026-11-07T20:28:38+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261108": {
+  "date": "20261108",
+  "fullstartdate": "202611081600",
+  "enddate": "20261109",
+  "urlbase": "/th?id=OHR.TrianaSpain_ZH-CN6329291776",
+  "first_seen_at": "2026-11-08T20:45:02+00:00",
+  "already_archived_at_first_seen": false
  }
 }
