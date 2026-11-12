@@ -350,5 +350,13 @@
   "urlbase": "/th?id=OHR.NorthWindow_ZH-CN6734579353",
   "first_seen_at": "2026-11-11T16:34:47+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261112": {
+  "date": "20261112",
+  "fullstartdate": "202611121600",
+  "enddate": "20261113",
+  "urlbase": "/th?id=OHR.AbrahamCanada_ZH-CN0344365912",
+  "first_seen_at": "2026-11-12T17:03:02+00:00",
+  "already_archived_at_first_seen": false
  }
 }
