@@ -366,5 +366,13 @@
   "urlbase": "/th?id=OHR.BlueHK_ZH-CN1382345392",
   "first_seen_at": "2026-11-13T20:02:05+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261114": {
+  "date": "20261114",
+  "fullstartdate": "202611141600",
+  "enddate": "20261115",
+  "urlbase": "/th?id=OHR.FirstFrost_ZH-CN2219029557",
+  "first_seen_at": "2026-11-14T18:28:12+00:00",
+  "already_archived_at_first_seen": false
  }
 }
