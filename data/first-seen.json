@@ -382,5 +382,13 @@
   "urlbase": "/th?id=OHR.GilaCliff_ZH-CN2393001519",
   "first_seen_at": "2026-11-15T21:14:59+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261116": {
+  "date": "20261116",
+  "fullstartdate": "202611161600",
+  "enddate": "20261117",
+  "urlbase": "/th?id=OHR.TrailCedars_ZH-CN2670680285",
+  "first_seen_at": "2026-11-16T18:53:16+00:00",
+  "already_archived_at_first_seen": false
  }
 }
