@@ -390,5 +390,13 @@
   "urlbase": "/th?id=OHR.TrailCedars_ZH-CN2670680285",
   "first_seen_at": "2026-11-16T18:53:16+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261117": {
+  "date": "20261117",
+  "fullstartdate": "202611171600",
+  "enddate": "20261118",
+  "urlbase": "/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291",
+  "first_seen_at": "2026-11-17T23:38:46+00:00",
+  "already_archived_at_first_seen": false
  }
 }
