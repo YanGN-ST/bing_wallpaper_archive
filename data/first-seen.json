@@ -398,5 +398,13 @@
   "urlbase": "/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291",
   "first_seen_at": "2026-11-17T23:38:46+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261118": {
+  "date": "20261118",
+  "fullstartdate": "202611181600",
+  "enddate": "20261119",
+  "urlbase": "/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853",
+  "first_seen_at": "2026-11-18T17:30:48+00:00",
+  "already_archived_at_first_seen": false
  }
 }
