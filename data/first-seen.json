@@ -406,5 +406,13 @@
   "urlbase": "/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853",
   "first_seen_at": "2026-11-18T17:30:48+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261119": {
+  "date": "20261119",
+  "fullstartdate": "202611191600",
+  "enddate": "20261120",
+  "urlbase": "/th?id=OHR.Megaptera_ZH-CN3361807823",
+  "first_seen_at": "2026-11-19T23:13:01+00:00",
+  "already_archived_at_first_seen": false
  }
 }
