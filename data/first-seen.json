@@ -430,5 +430,13 @@
   "urlbase": "/th?id=OHR.JustaHermitage_ZH-CN3751022621",
   "first_seen_at": "2026-11-21T21:52:07+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261122": {
+  "date": "20261122",
+  "fullstartdate": "202611221600",
+  "enddate": "20261123",
+  "urlbase": "/th?id=OHR.FibonacciFern_ZH-CN3882237848",
+  "first_seen_at": "2026-11-22T16:37:03+00:00",
+  "already_archived_at_first_seen": false
  }
 }
