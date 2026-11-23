@@ -438,5 +438,13 @@
   "urlbase": "/th?id=OHR.FibonacciFern_ZH-CN3882237848",
   "first_seen_at": "2026-11-22T16:37:03+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261123": {
+  "date": "20261123",
+  "fullstartdate": "202611231600",
+  "enddate": "20261124",
+  "urlbase": "/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869",
+  "first_seen_at": "2026-11-23T20:31:29+00:00",
+  "already_archived_at_first_seen": false
  }
 }
