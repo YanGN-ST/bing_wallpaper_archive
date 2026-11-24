@@ -446,5 +446,13 @@
   "urlbase": "/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869",
   "first_seen_at": "2026-11-23T20:31:29+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261124": {
+  "date": "20261124",
+  "fullstartdate": "202611241600",
+  "enddate": "20261125",
+  "urlbase": "/th?id=OHR.SunsetPoint_ZH-CN5737034685",
+  "first_seen_at": "2026-11-24T19:41:20+00:00",
+  "already_archived_at_first_seen": false
  }
 }
