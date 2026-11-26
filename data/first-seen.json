@@ -454,5 +454,13 @@
   "urlbase": "/th?id=OHR.SunsetPoint_ZH-CN5737034685",
   "first_seen_at": "2026-11-24T19:41:20+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261125": {
+  "date": "20261125",
+  "fullstartdate": "202611251600",
+  "enddate": "20261126",
+  "urlbase": "/th?id=OHR.RFHilo_ZH-CN5962114314",
+  "first_seen_at": "2026-11-26T00:38:53+00:00",
+  "already_archived_at_first_seen": false
  }
 }
