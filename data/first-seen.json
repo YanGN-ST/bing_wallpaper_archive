@@ -462,5 +462,13 @@
   "urlbase": "/th?id=OHR.RFHilo_ZH-CN5962114314",
   "first_seen_at": "2026-11-26T00:38:53+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261126": {
+  "date": "20261126",
+  "fullstartdate": "202611261600",
+  "enddate": "20261127",
+  "urlbase": "/th?id=OHR.FaceCanyon_ZH-CN9505064248",
+  "first_seen_at": "2026-11-27T00:47:11+00:00",
+  "already_archived_at_first_seen": false
  }
 }
