@@ -478,5 +478,13 @@
   "urlbase": "/th?id=OHR.VltavaPrague_ZH-CN9898139716",
   "first_seen_at": "2026-11-28T00:14:14+00:00",
   "already_archived_at_first_seen": false
+ },
+ "20261128": {
+  "date": "20261128",
+  "fullstartdate": "202611281600",
+  "enddate": "20261129",
+  "urlbase": "/th?id=OHR.SommaroyBridge_ZH-CN0060105443",
+  "first_seen_at": "2026-11-28T17:10:25+00:00",
+  "already_archived_at_first_seen": false
  }
 }
